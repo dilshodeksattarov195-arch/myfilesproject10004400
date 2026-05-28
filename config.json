@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderronnect",
+        "uuid": 10810800,
+        "checksum": "z1cge"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
